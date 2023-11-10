@@ -1,4 +1,4 @@
-package Prueba.ProyectoA.src;
+package Prueba;
 
 
 public class HolaMundo {
@@ -6,6 +6,8 @@ public class HolaMundo {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Hola Mundo");
+		
+		System.out.println("Bienvenidos");
 	}
 
 }
